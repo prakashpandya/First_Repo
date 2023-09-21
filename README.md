@@ -1,2 +1,2 @@
 # First_Repo
-author = Prakash Pandya
+Author = Prakash Pandya
