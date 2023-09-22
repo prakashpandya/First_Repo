@@ -1,3 +1,3 @@
 # First_Repo
-This is my girst Repo on GitHub.
+This is my Repo on GitHub.
 Author = Prakash Pandya
